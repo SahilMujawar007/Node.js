@@ -7,6 +7,6 @@ let server = http.createServer((req, res) => {
     res.end();
 })
 
-server.listen(1000);
+server.listen(3010);
  
-console.log('server is runing on port 1000');
+console.log('server is runing on port 3010');
